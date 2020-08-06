@@ -8,13 +8,14 @@
       "styling": {},
       "additionalSetColors": [
         "#d1e6cf",
-        "#222222"
+        "#222222",
+        "#efefef"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 61,
+    "uniqCompNum": 72,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -27,7 +28,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Home page for Enterprise Travel and Tours",
+        "meta_descr": "Home page for Home, Health and Education",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -160,6 +161,41 @@
               "color": "#0275d8"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<a href=\"#bottom\">Bootstrap 3</a>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-1p"
         }
       ]
     },
