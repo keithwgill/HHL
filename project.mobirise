@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 72,
+    "uniqCompNum": 77,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -142,7 +142,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "<b><a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\">Best Home </a></b><a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\"><b>Devices</b></a>",
+          "title1": "<b><a href=\"https://amzn.to/2PRe6ny\" target=\"_blank\">Best Blood Pressure Monitor</a>&nbsp;</b>",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "<a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\">Responsive</a>",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
@@ -168,6 +168,86 @@
             "showCaptions": true,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d8d4d1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<b><a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\">Best Home </a></b><a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\"><b>Devices</b></a>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\">Responsive</a>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "<a href=\"HomeandHealth.html\" target=\"_blank\">Web Fonts</a>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "<a href=\"http://www.wtop.com\" target=\"_blank\">Unlimited Websites</a>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            "H4": {
+              "color": "#0275d8"
+            }
+          },
+          "_anchor": "content4-22"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d8d4d1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<b><a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\">Best Home </a></b><a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\"><b>Devices</b></a>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\">Responsive</a>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "<a href=\"HomeandHealth.html\" target=\"_blank\">Web Fonts</a>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "<a href=\"http://www.wtop.com\" target=\"_blank\">Unlimited Websites</a>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            "H4": {
+              "color": "#0275d8"
+            }
+          },
+          "_anchor": "content4-20"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -178,7 +258,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -195,7 +275,92 @@
             "Theme"
           ],
           "_name": "content4",
-          "_anchor": "content4-1p"
+          "_anchor": "content4-1p",
+          "_styles": {
+            "H4": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d8d4d1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<b><a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\">Best Home </a></b><a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\"><b>Devices</b></a>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\">Responsive</a>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "<a href=\"HomeandHealth.html\" target=\"_blank\">Web Fonts</a>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "<a href=\"http://www.wtop.com\" target=\"_blank\">Unlimited Websites</a>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            "H4": {
+              "color": "#0275d8"
+            }
+          },
+          "_anchor": "content4-21"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d8d4d1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<b><a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\">Best Home </a></b><a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\"><b>Devices</b></a>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<a href=\"HomeandHealth.html\" target=\"_blank\" class=\"text-primary\">Responsive</a>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "<a href=\"HomeandHealth.html\" target=\"_blank\">Web Fonts</a>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "<a href=\"http://www.wtop.com\" target=\"_blank\">Unlimited Websites</a>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            "H4": {
+              "color": "#0275d8"
+            }
+          },
+          "_anchor": "content4-23"
         }
       ]
     },
